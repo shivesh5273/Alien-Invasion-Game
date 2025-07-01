@@ -22,6 +22,12 @@ A classic space shooter game built with Python and Pygame.
 - Space background: `IMG_5110.JPG`
 
 ## Credits
+# Shivesh Raj Sahu
 
-- [Your Name]
-- Based on Eric Matthes’ “Python Crash Course” Pygame projects
+- ## Features
+
+- [x] Player ship movement (WASD/Arrow keys)
+- [x] Mouse click to fire unlimited plasma bullets
+- [x] Space-themed background and ship graphics
+- [ ] Alien fleet (coming soon)
+- [ ] Scoring and levels (coming soon)
